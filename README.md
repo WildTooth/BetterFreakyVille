@@ -1,3 +1,7 @@
+# PROJEKTET ER STOPPET
+
+Der blev aldrig rigtigt sat gang i projektet, dette skyldes primært at projektet blev for kompliceret i forhold til hvad den originale plan var. Jeg har dog senere oprettet en open-source udgave af den originale idé. Dette kan findes [her](https://github.com/WildTooth/FVPrice-Lookup).
+
 # BetterFreakyVille 
 
 Dette repository indeholder releases af BetterFreakyVille addonnet. Addonnet er lige pt. closed source, og der vil derfor ikke være sourcecode til at finde offentligt. Alle funktioner der følger med addonnet er særligt med minecraft serveren FreakyVille i tankerne, derfor kan det ikke bruges på andre servere.
